@@ -1,7 +1,7 @@
 # LunchTimeCode
 
 Code I work on over lunch.
-Sometimes also the weekend
+Sometimes the weekend
 
 See all dependencies I use at: https://lunchtimecode.github.io/deps/
 
